@@ -30,7 +30,7 @@ Once, you've named it click "create" to proceed.
 
 You can add tables to the canvas by clicking on and dragging the green plus icon onto the canvas.
 
-If the table represents a "user" or someone who will sign up and sign in, check the "User Accounts?" checkbox to get a email and password column.
+If the table represents a "user" or someone who will sign up and sign in, check the "User Accounts?" checkbox to get an email and password column.
 
 ![](/assets/new-table.gif)
 {: .bleed-full }
