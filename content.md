@@ -4,19 +4,25 @@ Here is our Ideas tool for generating data models:
 
 [ideas.firstdraft.com](https://ideas.firstdraft.com/)
 
-Create a new account to get started.
+Sign in with GitHub to create an account.
 
 ## Getting started
 
 Once you login you can create a new "Idea" by clicking the green plus icon near the top right of the screen.
 
+---
+
 ![](/assets/new-idea.png)
-{: .bleed-full }
+
+---
 
 Once you click that you should see a form where you can choose a name for your project.
 
+---
+
 ![](/assets/new-idea-2.png)
-{: .bleed-full }
+
+---
 
 Once, you've named it click "create" to proceed.
 
